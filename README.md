@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <h3 style="text-align:center;"> See Ya! </h3>
 <br>
  <!-- <img style="text-align:center" src="giphy.gif" alt="Namaste" width="100" height="150"> -->
-<img style="text-align:center;" src="matcat.gif" alt="Say hi to my cat" width="800" height="250">
+<img style="text-align:center;" src="matcat.gif" alt="Say hi to my cat" width="840" height="280">
 
