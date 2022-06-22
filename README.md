@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Devlopment projects .
 - 🤔 I’m looking for help with Scalability and reducing time of loading website .
 - 💬 Ask me about JAVA , JavaScript , DSA , Git and Github , Html , CSS , Bootstrap ,  
-- 📫 How to reach me: swdev.animesh@gmail.com
+- 📫 How to reach me: I always reply to my twitter Dms . Connect to me on Twitter (@AnimatedCoder)
 - ⚡ Fun fact: I am a guitarist too. :wink:
 - :man_astronaut: Shooting for the Moon
