@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+<img src="https://giphy.com/gifs/halloween-spooky-skeleton-WJblPMWay4uV4kni9i">
 
 - 🔭 I’m currently working on my Startup .
 - 🌱 I’m currently learning MERN stack .
