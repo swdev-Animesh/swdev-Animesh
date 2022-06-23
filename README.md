@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - :man_astronaut: Shooting for the Moon<br>
 <h3 style="text-align:center;"> See Ya! </h3>
 <br>
- <!-- <img style="text-align:center" src="giphy.gif" alt="Namaste" width="100" height="150"> -->
-<img style="text-align:center;" src="matcat.gif" alt="Say hi to my cat" width="840" height="280">
+ <!-- <img style="text-align:center" src="giphy.gif" alt="Namaste" width="100" height="150"> 
+<img style="text-align:center;" src="matcat.gif" alt="Say hi to my cat" width="840" height="280">-->
 
